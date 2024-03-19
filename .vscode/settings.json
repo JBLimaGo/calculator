@@ -1,4 +1,5 @@
 {
     "workbench.experimental.cloudChanges.autoStore": "off",
-    "workbench.experimental.cloudChanges.partialMatches.enabled": true
+    "workbench.experimental.cloudChanges.partialMatches.enabled": false,
+    "git.autofetch": "all"
 }
