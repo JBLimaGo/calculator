@@ -7,7 +7,7 @@ function App() {
     <div className="App">
     <Calculator/>
     </div>
-  );    // JEfferson
+  );    // Teste
 }
 
 export default App;
