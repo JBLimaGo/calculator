@@ -1,0 +1,4 @@
+{
+    "workbench.experimental.cloudChanges.autoStore": "off",
+    "workbench.experimental.cloudChanges.partialMatches.enabled": true
+}
