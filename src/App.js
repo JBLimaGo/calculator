@@ -8,7 +8,7 @@ function App() {
     <Calculator/>
     </div>
   );
-  // Teste
+  // Jefferson
 }
 
 export default App;
