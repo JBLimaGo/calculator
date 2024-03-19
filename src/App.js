@@ -8,7 +8,6 @@ function App() {
     <Calculator/>
     </div>
   );
-  // TESTE
 }
 
 export default App;
