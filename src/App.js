@@ -7,7 +7,7 @@ function App() {
     <div className="App">
     <Calculator/>
     </div>
-  );    // teste
+  );    // jeferson
 }
 
 export default App;
